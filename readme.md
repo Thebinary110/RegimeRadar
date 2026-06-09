@@ -247,7 +247,7 @@ All parameters in `config.yaml`. Key fields:
 
 ---
 
-## Mermaid Architecture Diagram Source
+## Architecture Diagram Source
 
 ```mermaid
 flowchart TD
